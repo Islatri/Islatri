@@ -16,7 +16,7 @@ I can't write this part well while all my working projects are private.
 
 # 🚀 Literal-meaning Fullstack. 可不能太过期待哦
 
-<div align="left">
+<div align="center">
 
 ## 🌐 Languages
 
@@ -86,10 +86,7 @@ I can't write this part well while all my working projects are private.
 
 
 
-
-### Frameworks
-
-#### 💻 Frontend Development (UI,Framework)
+## 💻 Frontend Development (UI,Framework)
 
 <table>
 <tr>
@@ -128,7 +125,7 @@ I can't write this part well while all my working projects are private.
 </table>
 
 
-#### 📱Applications Construction
+## 📱Applications Construction
 
 
 <table>
@@ -152,7 +149,7 @@ I can't write this part well while all my working projects are private.
 </table>
 
 
-#### 🎨 Backend Development (API,DB,Framework)
+## 🎨 Backend Development (API,DB,Framework)
 
 <table>
 <tr>
@@ -209,7 +206,7 @@ I can't write this part well while all my working projects are private.
 </tr>
 </table>
 
-#### 🔧 DevOps
+## 🔧 DevOps
 
 <table>
 <tr>
@@ -247,7 +244,7 @@ I can't write this part well while all my working projects are private.
 
 
 
-#### 📟 Embedded Development (MCU,PRP,EDA,IDE)
+## 📟 Embedded Development (MCU,PRP,EDA,IDE)
 
 
 <table>
@@ -312,7 +309,7 @@ I can't write this part well while all my working projects are private.
 </table>
 
 
-#### 🧠 CV, ML and others
+## 🧠 CV, ML and others
 
 
 <table>
