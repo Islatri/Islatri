@@ -3,7 +3,7 @@
 
 > ### Maybe call me Chest might be ok. 其实怎样称呼都好啦~
 > ### Интересно получается 'Chest' звучит почти как 'Честный', да? 
-> ### でも実は嘘だらけの大嘘つきなんですよ～
+> ### でも実は嘘だらけの大嘘つきなんですよね～
 
 <div>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=zoneherobrine&theme=cobalt&show_icons=true&count_private=true" />
@@ -20,9 +20,9 @@ I can't write this part well while all my working projects are private.
 
 ## 🌐 Languages
 
-<table>
+<table style="width:full;">
 <tr>
-    <td width="176px"><b>Production Ready</b><br/>Daily working, 10k+ lines</td>
+    <td width="176px"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
        
 [![Rust](https://img.shields.io/badge/Rust%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -38,7 +38,7 @@ I can't write this part well while all my working projects are private.
   </td>
 </tr>
 <tr>
-    <td><b>Frequently Used</b><br/>Regular usage, 1k+ lines</td>
+    <td><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
     <td>
        
 [![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
@@ -56,7 +56,7 @@ I can't write this part well while all my working projects are private.
   </td>
 </tr>
 <tr>
-    <td><b>Used</b><br/>Basic understanding, 100+ lines</td>
+    <td><b>Used</b><br/>Basic understanding, <br/>100+ lines</td>
     <td>
        
 [![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
@@ -88,9 +88,9 @@ I can't write this part well while all my working projects are private.
 
 ## 💻 Frontend Development (UI,Framework)
 
-<table>
+<table style="width:full;">
 <tr>
-    <td width="176px"><b>Production Ready</b><br/>Daily working, 10k+ lines</td>
+    <td width="176px"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
 
 [![Vue](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -98,7 +98,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Frequently Used</b><br/>Regular usage, 1k+ lines</td>
+    <td><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
     <td>
 
 [![Solid](https://img.shields.io/badge/Solid%20-%232C4F7C.svg?style=flat-square&logo=solid&logoColor=white)](https://www.solidjs.com/)
@@ -111,7 +111,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Just tasted</b><br/>Basic understanding, anyway not usually</td>
+    <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
 [![Lit](https://img.shields.io/badge/Lit%20-%2337B6FF.svg?style=flat-square&logo=lit&logoColor=white)](https://lit.dev/)
@@ -128,16 +128,16 @@ I can't write this part well while all my working projects are private.
 ## 📱Applications Construction
 
 
-<table>
+<table style="width:full;">
 <tr>
-    <td width="176px"><b>Using</b><br/>Daily working, 1k+ lines</td>
+    <td width="176px"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
 
 [![Tauri](https://img.shields.io/badge/Tauri%20-%23A0A0A0.svg?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app/)
     </td>
 </tr>
 <tr>
-    <td><b>Used</b><br/>1k+ lines, But now 不需要了</td>
+    <td><b>Used</b><br/>1k+ lines, <br/>But now 不需要了</td>
     <td>
 
 [![Electron](https://img.shields.io/badge/Electron%20-%23478463.svg?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
@@ -151,9 +151,9 @@ I can't write this part well while all my working projects are private.
 
 ## 🎨 Backend Development (API,DB,Framework)
 
-<table>
+<table style="width:full;">
 <tr>
-    <td width="176px"><b>Using</b><br/>Daily working, 1k+ lines</td>
+    <td width="176px"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
 
 [![Tonic](https://img.shields.io/badge/Tonic%20-%23FF6C37.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/hyperium/tonic)
@@ -182,7 +182,7 @@ I can't write this part well while all my working projects are private.
 </tr>
 
 <tr>
- <td><b>Just tasted</b><br/>Basic understanding, anyway not usually</td>
+ <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
 
@@ -208,7 +208,7 @@ I can't write this part well while all my working projects are private.
 
 ## 🔧 DevOps
 
-<table>
+<table style="width:full;">
 <tr>
     <td width="176px"><b>Server system</b><br/>just used</td>
     <td>
@@ -247,7 +247,7 @@ I can't write this part well while all my working projects are private.
 ## 📟 Embedded Development (MCU,PRP,EDA,IDE)
 
 
-<table>
+<table style="width:full;">
 <tr>
     <td width="176px"><b>Using toolchains</b><br/>No matter languages</td>
     <td>
@@ -267,7 +267,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Played boards</b><br/>STM,ESP,FPGA and so on</td>
+    <td><b>Played boards</b><br/>STM,ESP,FPGA <br/>and so on</td>
     <td>
 
 [![STM32F103C8T6](https://img.shields.io/badge/STM32F103C8T6%20-%23008080.svg?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
@@ -312,9 +312,9 @@ I can't write this part well while all my working projects are private.
 ## 🧠 CV, ML and others
 
 
-<table>
+<table style="width:full;">
 <tr>
-    <td width="176px"><b>Camera Driver</b><br/>RustAPI of Daheng Camera</td>
+    <td width="176px"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
     <td>
 
 
@@ -332,7 +332,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Just tasted</b><br/>Basic understanding, anyway not usually</td>
+    <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
 
