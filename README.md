@@ -16,11 +16,11 @@ I can't write this part well while all my working projects are private.
 
 # 🚀 Literal-meaning Fullstack. 可不能太过期待哦
 
-<div align="center">
+<div align="left">
 
 ## 🌐 Languages
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
@@ -86,9 +86,9 @@ I can't write this part well while all my working projects are private.
 
 
 
-## 💻 Frontend Development (UI,Framework)
+## 🎨 Frontend Development (UI,Framework)
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
@@ -128,7 +128,7 @@ I can't write this part well while all my working projects are private.
 ## 📱Applications Construction
 
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
@@ -149,9 +149,9 @@ I can't write this part well while all my working projects are private.
 </table>
 
 
-## 🎨 Backend Development (API,DB,Framework)
+## 💻 Backend Development (API,DB,Framework)
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
@@ -206,9 +206,9 @@ I can't write this part well while all my working projects are private.
 </tr>
 </table>
 
-## 🔧 DevOps
+## 🖥 DevOps
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Server system</b><br/>just used</td>
     <td>
@@ -247,7 +247,7 @@ I can't write this part well while all my working projects are private.
 ## 📟 Embedded Development (MCU,PRP,EDA,IDE)
 
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Using toolchains</b><br/>No matter languages</td>
     <td>
@@ -312,7 +312,7 @@ I can't write this part well while all my working projects are private.
 ## 🧠 CV, ML and others
 
 
-<table style="width:full;">
+<table>
 <tr>
     <td width="176px"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
     <td>
