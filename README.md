@@ -2,7 +2,8 @@
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9A9A9&repeat=false&width=480&lines=%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%81%9A%E4%B8%AA%E7%99%BD%E6%97%A5%E6%A2%A6%E5%90%A7+%E6%80%8E%E4%B9%88%E6%A0%B7%E9%83%BD%E9%9A%8F%E5%AE%83%E5%8E%BB%E5%90%A7~%E2%9D%A4" alt="Typing SVG" /></a></div>
 
 > ### Maybe call me Chest might be ok. 其实怎样称呼都好啦~
-> ### Интересно получается 'Chest' звучит почти как 'Честный', да? でも実は嘘だらけの大嘘つきなんですよ～
+> ### Интересно получается 'Chest' звучит почти как 'Честный', да? 
+> ### でも実は嘘だらけの大嘘つきなんですよ～
 
 <div>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=zoneherobrine&theme=cobalt&show_icons=true&count_private=true" />
