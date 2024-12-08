@@ -16,7 +16,7 @@ I can't write this part well while all my working projects are private.
 
 # 🚀 Literal-meaning Fullstack. 可不能太过期待哦
 
-<div align="center">
+<div align="left">
 
 ## 🌐 Languages
 
