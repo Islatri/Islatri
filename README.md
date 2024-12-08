@@ -321,7 +321,7 @@ I can't write this part well while all my working projects are private.
     <td>
 
 
-[![Galaxy Camera](https://img.shields.io/badge/Galaxy%20Camera%20-%23A3A3A3.svg?style=flat-square&logo=camera&logoColor=white)](https://www.samsung.com/)
+[![Galaxy Camera](https://img.shields.io/badge/Galaxy%20Camera%20-%23A3A3A3.svg?style=flat-square&logo=camera&logoColor=white)](https://crates.io/crates/gxci)
     </td>
 </tr>
 <tr>
