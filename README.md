@@ -10,7 +10,7 @@
   <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zoneherobrine&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
 
-## Other wip projects comming soon 
+# Other wip projects comming soon 
 I can't write this part well while all my working projects are private.
 
 
