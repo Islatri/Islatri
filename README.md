@@ -18,11 +18,12 @@ I can't write this part well while all my working projects are private.
 <div align="center">
 
 ## 🌐 Languages
+
 <table>
 <tr>
-<td>
-**10k+ lines**
-
+    <td width="200px"><b>Production Ready</b><br/>Daily working, 10k+ lines</td>
+    <td>
+       
 [![Rust](https://img.shields.io/badge/Rust%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -32,15 +33,13 @@ I can't write this part well while all my working projects are private.
 [![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ![中文](https://img.shields.io/badge/中文%20-%23FF0000.svg?style=flat-square&logo=china&logoColor=white)
 ![English](https://img.shields.io/badge/English%20-%23008080.svg?style=flat-square&logo=united-kingdom&logoColor=white)
-</td>
+
+  </td>
 </tr>
 <tr>
-<td>
-
-
-**1k+ lines**
-
-
+    <td><b>Frequently Used</b><br/>Regular usage, 1k+ lines</td>
+    <td>
+       
 [![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -53,11 +52,12 @@ I can't write this part well while all my working projects are private.
 ![Русский](https://img.shields.io/badge/Русский%20-%23FF0000.svg?style=flat-square&logo=russia&logoColor=white)
 ![日本語](https://img.shields.io/badge/日本語%20-%23FFFFFF.svg?style=flat-square&logo=japan&logoColor=red)
 
-</td>
+  </td>
 </tr>
-</table>
-
-100+ lines
+<tr>
+    <td><b>Used</b><br/>Basic understanding, 100+ lines</td>
+    <td>
+       
 [![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Mathematica](https://img.shields.io/badge/Mathematica%20-%23DB7B2B.svg?style=flat-square&logo=wolfram&logoColor=white)](https://www.wolfram.com/mathematica/)
 [![Assembly](https://img.shields.io/badge/Assembly%20-%23000000.svg?style=flat-square&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
@@ -65,8 +65,12 @@ I can't write this part well while all my working projects are private.
 [![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Computer_terminal)
 ![Deutsch](https://img.shields.io/badge/Deutsch%20-%23000000.svg?style=flat-square&logo=germany&logoColor=white)
 ![Ελληνικά](https://img.shields.io/badge/Ελληνικά%20-%230070C1.svg?style=flat-square&logo=greece&logoColor=white)
+  </td>
+</tr>
+<tr>
+    <td><b>Waiting list</b><br/>okok</td>
+    <td>
 
-waiting list
 [![Haskell](https://img.shields.io/badge/Haskell%20-%235D4F85.svg?style=flat-square&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![Zig](https://img.shields.io/badge/Zig%20-%23000000.svg?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly%20-%236649B8.svg?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
@@ -75,11 +79,16 @@ waiting list
 ![한국어](https://img.shields.io/badge/한국어%20-%230000FF.svg?style=flat-square&logo=south-korea&logoColor=white)
 ![Español](https://img.shields.io/badge/Español%20-%23800080.svg?style=flat-square&logo=spain&logoColor=white)
 ![Français](https://img.shields.io/badge/Français%20-%230073C6.svg?style=flat-square&logo=france&logoColor=white)
+  </td>
+</tr>
+</table>
+
+
 
 
 ### Frameworks
 
-#### Frontend Development (UI,Framework)
+#### 💻 Frontend Development (UI,Framework)
 
 10k+ lines
 [![Vue](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -112,7 +121,7 @@ used 1k+ lines
 [![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Uniapp](https://img.shields.io/badge/Uniapp%20-%23000000.svg?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.io/)
 
-#### Backend Development (API,DB,Framework)
+#### 🎨 Backend Development (API,DB,Framework)
 1k+ lines 
 [![Tonic](https://img.shields.io/badge/Tonic%20-%23FF6C37.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/hyperium/tonic)
 [![Poem](https://img.shields.io/badge/Poem%20-%23001B44.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/poem-web/poem)
@@ -144,7 +153,7 @@ just tasted
 waiting list or no waits
 [![Prisma](https://img.shields.io/badge/Prisma%20-%23000000.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-#### DevOps
+#### 🔧 DevOps
 
 server sys
 [![Debian](https://img.shields.io/badge/Debian%20-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
@@ -161,7 +170,7 @@ waiting list
 [![Kafka](https://img.shields.io/badge/Kafka%20-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
 
-#### Embedded Development (MCU,PRP,EDA,IDE)
+#### 🤖 Embedded Development (MCU,PRP,EDA,IDE)
 using toolchains
 [![Probors](https://img.shields.io/badge/Probors%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/probors/probors)
 [![CubeMX](https://img.shields.io/badge/CubeMX%20-%23008080.svg?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/development-tools/stm32cubemx.html)
