@@ -22,7 +22,8 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;">
+    <b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
        
 [![Rust](https://img.shields.io/badge/Rust%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
@@ -90,7 +91,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
 
 [![Vue](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -114,6 +115,7 @@ I can't write this part well while all my working projects are private.
     <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
+[![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Lit](https://img.shields.io/badge/Lit%20-%2337B6FF.svg?style=flat-square&logo=lit&logoColor=white)](https://lit.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js%20-%2300C58E.svg?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
@@ -130,7 +132,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
 
 [![Tauri](https://img.shields.io/badge/Tauri%20-%23A0A0A0.svg?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app/)
@@ -153,7 +155,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
 
 [![Tonic](https://img.shields.io/badge/Tonic%20-%23FF6C37.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/hyperium/tonic)
@@ -210,7 +212,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Server system</b><br/>just used</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;"><b>Server system</b><br/>just using</td>
     <td>
 
 [![Debian](https://img.shields.io/badge/Debian%20-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
@@ -249,7 +251,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Using toolchains</b><br/>No matter languages</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;"><b>Using toolchains</b><br/>No matter languages</td>
     <td>
 
 [![Probors](https://img.shields.io/badge/Probors%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/probors/probors)
@@ -258,7 +260,6 @@ I can't write this part well while all my working projects are private.
 [![Vivado](https://img.shields.io/badge/Vivado%20-%23E01F27.svg?style=flat-square&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vivado.html)
 [![MDK](https://img.shields.io/badge/MDK%20-%23008080.svg?style=flat-square&logo=arm&logoColor=white)](https://www2.keil.com/mdk5/)
 [![EIDE](https://img.shields.io/badge/EIDE%20-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.com/github0null/eide)
-[![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Solidworks](https://img.shields.io/badge/Solidworks%20-%23FF0000.svg?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
 [![Blender 3D](https://img.shields.io/badge/Blender%203D%20-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 [![SystemViews](https://img.shields.io/badge/SystemViews%20-%230066CC.svg?style=flat-square&logo=systemviews&logoColor=white)](https://systemviews.com/)
@@ -314,7 +315,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
+    <td width="176px" style="text-align: center; vertical-align: middle;"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
     <td>
 
 
@@ -336,11 +337,11 @@ I can't write this part well while all my working projects are private.
     <td>
 
 
+[![Burn](https://img.shields.io/badge/Burn%20-%23FF4F64.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/burn-rs/burn)
+[![Ollama](https://img.shields.io/badge/Ollama%20-%23000000.svg?style=flat-square&logo=llama&logoColor=white)](https://ollama.ai/)
 [![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Ollama](https://img.shields.io/badge/Ollama%20-%23000000.svg?style=flat-square&logo=llama&logoColor=white)](https://ollama.ai/)
-[![Burn](https://img.shields.io/badge/Burn%20-%23FF4F64.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/burn-rs/burn)
     </td>
 </tr>
 </table>
