@@ -32,7 +32,8 @@ I can't write this part well while all my working projects are private.
 [![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX%20-%23008080.svg?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 ![中文](https://img.shields.io/badge/中文%20-%23FF0000.svg?style=flat-square&logo=china&logoColor=white)
 ![English](https://img.shields.io/badge/English%20-%23008080.svg?style=flat-square&logo=united-kingdom&logoColor=white)
 
@@ -44,13 +45,11 @@ I can't write this part well while all my working projects are private.
        
 [![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Verilog](https://img.shields.io/badge/Verilog%20-%23000000.svg?style=flat-square&logo=vdhl&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 [![Matlab](https://img.shields.io/badge/Matlab%20-%23007ACC.svg?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![LaTeX](https://img.shields.io/badge/LaTeX%20-%23008080.svg?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 ![Русский](https://img.shields.io/badge/Русский%20-%23FF0000.svg?style=flat-square&logo=russia&logoColor=white)
 ![日本語](https://img.shields.io/badge/日本語%20-%23FFFFFF.svg?style=flat-square&logo=japan&logoColor=red)
 
@@ -60,6 +59,7 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Used</b><br/>Basic understanding, <br/>100+ lines</td>
     <td>
        
+[![Kotlin](https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Mathematica](https://img.shields.io/badge/Mathematica%20-%23DB7B2B.svg?style=flat-square&logo=wolfram&logoColor=white)](https://www.wolfram.com/mathematica/)
 [![Assembly](https://img.shields.io/badge/Assembly%20-%23000000.svg?style=flat-square&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
