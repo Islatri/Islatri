@@ -13,10 +13,16 @@
 I can't write this part well while all my working projects are private.
 
 
-## Literal-meaning Fullstack. 可不能太过期待哦
+# 🚀 Literal-meaning Fullstack. 可不能太过期待哦
 
-### Languages
-10k+ lines
+<div align="center">
+
+## 🌐 Languages
+<table>
+<tr>
+<td>
+**10k+ lines**
+
 [![Rust](https://img.shields.io/badge/Rust%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -26,8 +32,15 @@ I can't write this part well while all my working projects are private.
 [![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ![中文](https://img.shields.io/badge/中文%20-%23FF0000.svg?style=flat-square&logo=china&logoColor=white)
 ![English](https://img.shields.io/badge/English%20-%23008080.svg?style=flat-square&logo=united-kingdom&logoColor=white)
+</td>
+</tr>
+<tr>
+<td>
 
-1k+ lines
+
+**1k+ lines**
+
+
 [![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -39,6 +52,10 @@ I can't write this part well while all my working projects are private.
 [![LaTeX](https://img.shields.io/badge/LaTeX%20-%23008080.svg?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 ![Русский](https://img.shields.io/badge/Русский%20-%23FF0000.svg?style=flat-square&logo=russia&logoColor=white)
 ![日本語](https://img.shields.io/badge/日本語%20-%23FFFFFF.svg?style=flat-square&logo=japan&logoColor=red)
+
+</td>
+</tr>
+</table>
 
 100+ lines
 [![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
