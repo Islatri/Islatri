@@ -24,7 +24,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-    <td width="176px" align="center" style="text-align: center; vertical-align: middle;">
+    <td width="176px" align="center">
     <b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
        
@@ -41,7 +41,7 @@ I can't write this part well while all my working projects are private.
   </td>
 </tr>
 <tr>
-    <td><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
+    <td align="center"><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
     <td>
        
 [![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
@@ -59,7 +59,7 @@ I can't write this part well while all my working projects are private.
   </td>
 </tr>
 <tr>
-    <td><b>Used</b><br/>Basic understanding, <br/>100+ lines</td>
+    <td align="center"><b>Used</b><br/>Basic understanding, <br/>100+ lines</td>
     <td>
        
 [![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
@@ -72,7 +72,7 @@ I can't write this part well while all my working projects are private.
   </td>
 </tr>
 <tr>
-    <td><b>Waiting list</b><br/>okok</td>
+    <td align="center"><b>Waiting list</b><br/>okok</td>
     <td>
 
 [![Haskell](https://img.shields.io/badge/Haskell%20-%235D4F85.svg?style=flat-square&logo=haskell&logoColor=white)](https://www.haskell.org/)
@@ -93,7 +93,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-        <td width="176px" align="center" style="text-align: center; vertical-align: middle;"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
+        <td width="176px" align="center"><b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
 
 [![Vue](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -101,7 +101,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
+    <td align="center"><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
     <td>
 
 [![Solid](https://img.shields.io/badge/Solid%20-%232C4F7C.svg?style=flat-square&logo=solid&logoColor=white)](https://www.solidjs.com/)
@@ -114,7 +114,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
+    <td align="center"><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
 [![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
@@ -134,14 +134,14 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-        <td width="176px" align="center" style="text-align: center; vertical-align: middle;"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
+        <td width="176px" align="center"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
 
 [![Tauri](https://img.shields.io/badge/Tauri%20-%23A0A0A0.svg?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app/)
     </td>
 </tr>
 <tr>
-    <td><b>Used</b><br/>1k+ lines, <br/>But now 不需要了</td>
+    <td align="center"><b>Used</b><br/>1k+ lines, <br/>But now 不需要了</td>
     <td>
 
 [![Electron](https://img.shields.io/badge/Electron%20-%23478463.svg?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
@@ -157,7 +157,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-        <td width="176px" align="center" style="text-align: center; vertical-align: middle;"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
+        <td width="176px" align="center"><b>Using</b><br/>Daily working, <br/>1k+ lines</td>
     <td>
 
 [![Tonic](https://img.shields.io/badge/Tonic%20-%23FF6C37.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/hyperium/tonic)
@@ -170,7 +170,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Used DB and ORM</b><br/>Fit for concrete requirements</td>
+    <td align="center"><b>Used DB and ORM</b><br/>Fit for concrete requirements</td>
     <td>
 
 [![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -186,7 +186,7 @@ I can't write this part well while all my working projects are private.
 </tr>
 
 <tr>
- <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
+ <td align="center"><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
 
@@ -201,7 +201,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Waiting list</b><br/>Or no waits</td>
+    <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
     
@@ -214,7 +214,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-        <td width="176px" align="center" style="text-align: center; vertical-align: middle;"><b>Server system</b><br/>just using</td>
+        <td width="176px" align="center"><b>Server system</b><br/>just using</td>
     <td>
 
 [![Debian](https://img.shields.io/badge/Debian%20-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
@@ -224,7 +224,7 @@ I can't write this part well while all my working projects are private.
 </tr>
 <tr>
 
- <td><b>Just tasted</b><br/>Used as utils</td>
+ <td align="center"><b>Just tasted</b><br/>Used as utils</td>
     <td>
 
 [![Fedora](https://img.shields.io/badge/Fedora%20-%232649A5.svg?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
@@ -236,7 +236,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Waiting list</b><br/>Or no waits</td>
+    <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux%20-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
@@ -253,7 +253,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-        <td width="176px" align="center" style="text-align: center; vertical-align: middle;"><b>Using toolchains</b><br/>No matter languages</td>
+        <td width="176px" align="center"><b>Using toolchains</b><br/>No matter languages</td>
     <td>
 
 [![Probors](https://img.shields.io/badge/Probors%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/probors/probors)
@@ -270,7 +270,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Played boards</b><br/>STM,ESP,FPGA <br/>and so on</td>
+    <td align="center"><b>Played boards</b><br/>STM,ESP,FPGA <br/>and so on</td>
     <td>
 
 [![STM32F103C8T6](https://img.shields.io/badge/STM32F103C8T6%20-%23008080.svg?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
@@ -287,7 +287,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Played Prps</b><br/>basicly modules</td>
+    <td align="center"><b>Played Prps</b><br/>basicly modules</td>
     <td>
 
 [![HMC5883L](https://img.shields.io/badge/HMC5883L%20-%234FC3F7.svg?style=flat-square&logo=compass&logoColor=white)](https://www.adafruit.com/product/1746)
@@ -303,7 +303,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Waiting list</b><br/>Or no waits</td>
+    <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%20-%23C51A4A.svg?style=flat-square&logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org/)
@@ -317,7 +317,7 @@ I can't write this part well while all my working projects are private.
 
 <table>
 <tr>
-        <td width="176px" align="center" style="text-align: center; vertical-align: middle;"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
+        <td width="176px" align="center"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
     <td>
 
 
@@ -326,7 +326,7 @@ I can't write this part well while all my working projects are private.
 </tr>
 <tr>
 
- <td><b>Worked</b><br/>In some process projects</td>
+ <td align="center"><b>Worked</b><br/>In some process projects</td>
     <td>
 
 
@@ -335,7 +335,7 @@ I can't write this part well while all my working projects are private.
     </td>
 </tr>
 <tr>
-    <td><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
+    <td align="center"><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
 
