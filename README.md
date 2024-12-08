@@ -231,6 +231,7 @@ I can't write this part well while all my working projects are private.
 [![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jaeger](https://img.shields.io/badge/Jaeger%20-%23FF6F00.svg?style=flat-square&logo=jaeger&logoColor=white)](https://www.jaegertracing.io/)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20-%23000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
     </td>
 </tr>
 <tr>
