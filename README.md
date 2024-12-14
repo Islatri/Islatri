@@ -214,7 +214,7 @@ I can't write this part well while all my working projects are private.
 <tr>
         <td width="176px" align="center"><b>Server system</b><br/>just using</td>
     <td>
-
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux%20-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian%20-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![CentOS](https://img.shields.io/badge/CentOS%20-%23262C2D.svg?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
@@ -238,7 +238,6 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux%20-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Kafka](https://img.shields.io/badge/Kafka%20-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
     </td>
