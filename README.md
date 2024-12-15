@@ -59,6 +59,7 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Used</b><br/>Basic understanding, <br/>100+ lines</td>
     <td>
        
+[![WebAssembly](https://img.shields.io/badge/WebAssembly%20-%236649B8.svg?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Lua](https://img.shields.io/badge/Lua%20-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Mathematica](https://img.shields.io/badge/Mathematica%20-%23DB7B2B.svg?style=flat-square&logo=wolfram&logoColor=white)](https://www.wolfram.com/mathematica/)
@@ -75,7 +76,6 @@ I can't write this part well while all my working projects are private.
 
 [![Haskell](https://img.shields.io/badge/Haskell%20-%235D4F85.svg?style=flat-square&logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![Zig](https://img.shields.io/badge/Zig%20-%23000000.svg?style=flat-square&logo=zig&logoColor=white)](https://ziglang.org/)
-[![WebAssembly](https://img.shields.io/badge/WebAssembly%20-%236649B8.svg?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![Perl](https://img.shields.io/badge/Perl%20-%23339478.svg?style=flat-square&logo=perl&logoColor=white)](https://www.perl.org/)
 [![Ruby](https://img.shields.io/badge/Ruby%20-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 ![한국어](https://img.shields.io/badge/한국어%20-%230000FF.svg?style=flat-square&logo=south-korea&logoColor=white)
