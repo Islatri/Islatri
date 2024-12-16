@@ -146,6 +146,8 @@ I can't write this part well while all my working projects are private.
 [![React Native](https://img.shields.io/badge/React%20Native%20-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Uniapp](https://img.shields.io/badge/Uniapp%20-%23000000.svg?style=flat-square&logo=uniapp&logoColor=white)](https://uniapp.dcloud.io/)
+[![WinForms](https://img.shields.io/badge/WinForms%20-%23000000.svg?style=flat-square&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/)
+[![WPF](https://img.shields.io/badge/WPF%20-%23078C6C.svg?style=flat-square&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
     </td>
 </tr>
 </table>
