@@ -66,6 +66,7 @@ I can't write this part well while all my working projects are private.
 [![Assembly](https://img.shields.io/badge/Assembly%20-%23000000.svg?style=flat-square&logo=assembly&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![PowerSell](https://img.shields.io/badge/PowerSell%20-%23000000.svg?style=flat-square&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 [![NixShell](https://img.shields.io/badge/NixShell%20-%23000000.svg?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Shell](https://img.shields.io/badge/Shell%20-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Bash](https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Computer_terminal)
 ![Deutsch](https://img.shields.io/badge/Deutsch%20-%23000000.svg?style=flat-square&logo=germany&logoColor=white)
