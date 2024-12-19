@@ -1,7 +1,8 @@
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9A9A9&width=480&lines=%E2%9D%A4%E5%96%80%E5%95%A6%E5%96%80%E5%95%A6%E6%B5%81%E8%BD%AC%E5%BE%80%E5%A4%8D%E7%9A%84%E5%AD%A3%E8%8A%82+%E4%B8%8E%E4%BD%A0%E5%B9%B6%E5%88%97%E9%9D%A2%E5%89%8D" alt="Typing SVG" /></a></div>
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9A9A9&width=480&lines=%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%81%9A%E4%B8%AA%E7%99%BD%E6%97%A5%E6%A2%A6%E5%90%A7+%E6%80%8E%E4%B9%88%E6%A0%B7%E9%83%BD%E9%9A%8F%E5%AE%83%E5%8E%BB%E5%90%A7~%E2%9D%A4" alt="Typing SVG" /></a></div>
 
-> ## Maybe calling me Chest might be ok. 其实怎样称呼都好啦~
+### ✨ Maybe calling me Chest might be ok.
+> ## 其实怎样称呼都好啦~
 > ## Интересно получается 'Chest' звучит почти как 'Честный', да? 
 > ## でも実は嘘だらけの大嘘つきなんですよね～
 
