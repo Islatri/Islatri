@@ -8,7 +8,7 @@
 
 <div>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=zoneherobrine&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zoneherobrine&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoneherobrine&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
 
 # Other wip projects comming soon 
