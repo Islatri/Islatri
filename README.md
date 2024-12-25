@@ -340,6 +340,7 @@ I can't write this part well while all my working projects are private.
 
 [![RustFFT](https://img.shields.io/badge/RustFFT%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/rustfft/)
 [![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
+[![FFmpeg](https://img.shields.io/badge/FFmpeg%20-%23E6E6E6.svg?style=flat-square&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/)
     </td>
 </tr>
 <tr>
