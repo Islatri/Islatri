@@ -190,6 +190,8 @@ I can't write this part well while all my working projects are private.
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis%20-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![SeaORM](https://img.shields.io/badge/SeaORM%20-%230D1017.svg?style=flat-square&logo=rust&logoColor=white)](https://www.sea-ql.org/SeaORM/)
+[![Seaography](https://img.shields.io/badge/Seaography%20-%234B32C3.svg?style=flat-square&logo=graphql&logoColor=white)](https://github.com/SeaQL/seaography)
+[![GraphQL](https://img.shields.io/badge/GraphQL%20-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Sqlx](https://img.shields.io/badge/Sqlx%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/launchbadge/sqlx)
 [![Diesel](https://img.shields.io/badge/Diesel%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://diesel.rs/)
 [![Sequelize](https://img.shields.io/badge/Sequelize%20-%2352B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org/)
@@ -204,8 +206,7 @@ I can't write this part well while all my working projects are private.
 [![Gin](https://img.shields.io/badge/Gin%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://gin-gonic.com/)
 [![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Egg.js](https://img.shields.io/badge/Egg.js%20-%2330A9DE.svg?style=flat-square&logo=egg&logoColor=white)](https://www.eggjs.org/)
-[![Seaography](https://img.shields.io/badge/Seaography%20-%234B32C3.svg?style=flat-square&logo=graphql&logoColor=white)](https://github.com/SeaQL/seaography)
-[![GraphQL](https://img.shields.io/badge/GraphQL%20-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Viz](https://img.shields.io/badge/Viz%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/viz-rs/viz)
 [![Warp](https://img.shields.io/badge/Warp%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/warp/latest/warp/)
 [![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI%20-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -234,6 +235,8 @@ I can't write this part well while all my working projects are private.
 [![Debian](https://img.shields.io/badge/Debian%20-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![CentOS](https://img.shields.io/badge/CentOS%20-%23262C2D.svg?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
+[![OpenCloudOS](https://img.shields.io/badge/OpenCloudOS%20-%23000000.svg?style=flat-square&logo=opencloudos&logoColor=white)](https://www.opencloudos.com/)
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux%20-%23000000.svg?style=flat-square&logo=almalinux&logoColor=white)](https://almalinux.org/)
 [![WSL2](https://img.shields.io/badge/WSL2%20-%23007CFF.svg?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
     </td>
 </tr>
@@ -249,6 +252,9 @@ I can't write this part well while all my working projects are private.
 [![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jaeger](https://img.shields.io/badge/Jaeger%20-%23FF6F00.svg?style=flat-square&logo=jaeger&logoColor=white)](https://www.jaegertracing.io/)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20-%23000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
+[![1Panel](https://img.shields.io/badge/1Panel%20-%23000000.svg?style=flat-square&logo=1panel&logoColor=white)](https://1panel.io/)
+[![Baota](https://img.shields.io/badge/Baota%20-%23000000.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
+[![Cockpit](https://img.shields.io/badge/Cockpit%20-%23000000.svg?style=flat-square&logo=cockpit&logoColor)](https://cockpit-project.org/)
     </td>
 </tr>
 <tr>
