@@ -259,6 +259,7 @@ I can't write this part well while all my working projects are private.
 [![1Panel](https://img.shields.io/badge/1Panel%20-%23005EEB.svg?style=flat-square&logo=1panel&logoColor=white)](https://1panel.io/)
 [![宝塔](https://img.shields.io/badge/宝塔%20-%2320A43A.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
 [![Cockpit](https://img.shields.io/badge/Cockpit%20-%23000000.svg?style=flat-square&logo=cockpit&logoColor)](https://cockpit-project.org/)
+[![OpenResty](https://img.shields.io/badge/OpenResty%20-%23119339.svg?style=flat-square&logo=openresty&logoColor=white)](https://openresty.org/)
     </td>
 </tr>
 <tr>
