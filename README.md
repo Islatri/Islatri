@@ -217,7 +217,8 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
-    
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Kafka%20-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Prisma](https://img.shields.io/badge/Prisma%20-%23000000.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
     </td>
 </tr>
@@ -263,8 +264,7 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Kafka](https://img.shields.io/badge/Kafka%20-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![RockyLinux](https://img.shields.io/badge/RockyLinux%20-%23000000.svg?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
     </td>
 </tr>
 </table>
