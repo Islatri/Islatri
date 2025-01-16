@@ -209,7 +209,7 @@ I can't write this part well while all my working projects are private.
 [![Egg.js](https://img.shields.io/badge/Egg.js%20-%2330A9DE.svg?style=flat-square&logo=egg&logoColor=white)](https://www.eggjs.org/)
 [![Viz](https://img.shields.io/badge/Viz%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/viz-rs/viz)
 [![Warp](https://img.shields.io/badge/Warp%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/warp/latest/warp/)
-[![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Flask](https://img.shields.io/badge/Flask%20-%2342adc1.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI%20-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
     </td>
 </tr>
@@ -217,9 +217,10 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
+[![SurrealDB](https://img.shields.io/badge/SurrealDB%20-%23DD00BF.svg?style=flat-square&logo=surrealdb&logoColor=white)](https://surrealdb.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Kafka](https://img.shields.io/badge/Kafka%20-%23000000.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Prisma](https://img.shields.io/badge/Prisma%20-%23000000.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Kafka](https://img.shields.io/badge/Kafka%20-%23363D3F.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![Prisma](https://img.shields.io/badge/Prisma%20-%233D8BCD.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
     </td>
 </tr>
 </table>
@@ -232,13 +233,13 @@ I can't write this part well while all my working projects are private.
     <td>
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux%20-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Nix OS](https://img.shields.io/badge/Nix%20OS%20-%23000000.svg?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux%20-%23000000.svg?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Nix OS](https://img.shields.io/badge/Nix%20OS%20-%235175C0.svg?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux%20-%23268BEC.svg?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/Debian%20-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%20-%23E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![CentOS](https://img.shields.io/badge/CentOS%20-%23262C2D.svg?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
-[![OpenCloudOS](https://img.shields.io/badge/OpenCloudOS%20-%23000000.svg?style=flat-square&logo=opencloudos&logoColor=white)](https://www.opencloudos.com/)
-[![AlmaLinux](https://img.shields.io/badge/AlmaLinux%20-%23000000.svg?style=flat-square&logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![CentOS](https://img.shields.io/badge/CentOS%20-%23A14F8C.svg?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
+[![OpenCloudOS](https://img.shields.io/badge/OpenCloudOS%20-%231590F3.svg?style=flat-square&logo=opencloudos&logoColor=white)](https://www.opencloudos.com/)
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux%20-%23FFCB12.svg?style=flat-square&logo=almalinux&logoColor=white)](https://almalinux.org/)
 [![WSL2](https://img.shields.io/badge/WSL2%20-%23007CFF.svg?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
     </td>
 </tr>
@@ -251,12 +252,12 @@ I can't write this part well while all my working projects are private.
 [![Neovim](https://img.shields.io/badge/Nvim%20-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Podman](https://img.shields.io/badge/Podman%20-%23000000.svg?style=flat-square&logo=podman&logoColor=white)](https://podman.io/)
+[![Podman](https://img.shields.io/badge/Podman%20-%23BD58DD.svg?style=flat-square&logo=podman&logoColor=white)](https://podman.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jaeger](https://img.shields.io/badge/Jaeger%20-%23FF6F00.svg?style=flat-square&logo=jaeger&logoColor=white)](https://www.jaegertracing.io/)
-[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20-%23000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
-[![1Panel](https://img.shields.io/badge/1Panel%20-%23000000.svg?style=flat-square&logo=1panel&logoColor=white)](https://1panel.io/)
-[![Baota](https://img.shields.io/badge/Baota%20-%23000000.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20-%23F5A800.svg?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
+[![1Panel](https://img.shields.io/badge/1Panel%20-%23005EEB.svg?style=flat-square&logo=1panel&logoColor=white)](https://1panel.io/)
+[![Baota](https://img.shields.io/badge/Baota%20-%2320A43A.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
 [![Cockpit](https://img.shields.io/badge/Cockpit%20-%23000000.svg?style=flat-square&logo=cockpit&logoColor)](https://cockpit-project.org/)
     </td>
 </tr>
@@ -264,7 +265,7 @@ I can't write this part well while all my working projects are private.
     <td align="center"><b>Waiting list</b><br/>Or no waits</td>
     <td>
 
-[![RockyLinux](https://img.shields.io/badge/RockyLinux%20-%23000000.svg?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![RockyLinux](https://img.shields.io/badge/RockyLinux%20-%230FB371.svg?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
     </td>
 </tr>
 </table>
