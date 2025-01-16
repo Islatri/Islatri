@@ -190,7 +190,7 @@ I can't write this part well while all my working projects are private.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis%20-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![SeaORM](https://img.shields.io/badge/SeaORM%20-%230D1017.svg?style=flat-square&logo=rust&logoColor=white)](https://www.sea-ql.org/SeaORM/)
+[![SeaORM](https://img.shields.io/badge/SeaORM%20-%231390E9.svg?style=flat-square&logo=rust&logoColor=white)](https://www.sea-ql.org/SeaORM/)
 [![Seaography](https://img.shields.io/badge/Seaography%20-%234B32C3.svg?style=flat-square&logo=graphql&logoColor=white)](https://github.com/SeaQL/seaography)
 [![GraphQL](https://img.shields.io/badge/GraphQL%20-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Sqlx](https://img.shields.io/badge/Sqlx%20-%230072DE.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/launchbadge/sqlx)
