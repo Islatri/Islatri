@@ -193,8 +193,8 @@ I can't write this part well while all my working projects are private.
 [![SeaORM](https://img.shields.io/badge/SeaORM%20-%230D1017.svg?style=flat-square&logo=rust&logoColor=white)](https://www.sea-ql.org/SeaORM/)
 [![Seaography](https://img.shields.io/badge/Seaography%20-%234B32C3.svg?style=flat-square&logo=graphql&logoColor=white)](https://github.com/SeaQL/seaography)
 [![GraphQL](https://img.shields.io/badge/GraphQL%20-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Sqlx](https://img.shields.io/badge/Sqlx%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/launchbadge/sqlx)
-[![Diesel](https://img.shields.io/badge/Diesel%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://diesel.rs/)
+[![Sqlx](https://img.shields.io/badge/Sqlx%20-%230072DE.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/launchbadge/sqlx)
+[![Diesel](https://img.shields.io/badge/Diesel%20-%23626285.svg?style=flat-square&logo=rust&logoColor=white)](https://diesel.rs/)
 [![Sequelize](https://img.shields.io/badge/Sequelize%20-%2352B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org/)
     </td>
 </tr>
