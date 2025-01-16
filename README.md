@@ -117,6 +117,8 @@ I can't write this part well while all my working projects are private.
 [![Leptos](https://img.shields.io/badge/Leptos%20-%235749A1.svg?style=flat-square&logo=leptos&logoColor=white)](https://www.leptos.dev/)
 [![Astro](https://img.shields.io/badge/Astro%20-%23FF5D01.svg?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
 [![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Preact](https://img.shields.io/badge/Preact%20-%23000000.svg?style=flat-square&logo=preact&logoColor=white)](https://preactjs.com/)
+[![Lit](https://img.shields.io/badge/Lit%20-%2337B6FF.svg?style=flat-square&logo=lit&logoColor=white)](https://lit.dev/)
 [![Blazor](https://img.shields.io/badge/Blazor%20-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![WPF](https://img.shields.io/badge/WPF%20-%23078C6C.svg?style=flat-square&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
 [![Web Components](https://img.shields.io/badge/Web%20Components%20-%230076D6.svg?style=flat-square&logo=webcomponents.org&logoColor=white)](https://www.webcomponents.org/)
@@ -127,7 +129,6 @@ I can't write this part well while all my working projects are private.
     <td>
 
 [![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Lit](https://img.shields.io/badge/Lit%20-%2337B6FF.svg?style=flat-square&logo=lit&logoColor=white)](https://lit.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js%20-%2300C58E.svg?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxt.com/)
 [![Shadcn](https://img.shields.io/badge/Shadcn%20-%23000000.svg?style=flat-square&logo=shadcn&logoColor=white)](https://ui.shadcn.com/)
