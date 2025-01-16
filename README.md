@@ -257,7 +257,7 @@ I can't write this part well while all my working projects are private.
 [![Jaeger](https://img.shields.io/badge/Jaeger%20-%23FF6F00.svg?style=flat-square&logo=jaeger&logoColor=white)](https://www.jaegertracing.io/)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20-%23F5A800.svg?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
 [![1Panel](https://img.shields.io/badge/1Panel%20-%23005EEB.svg?style=flat-square&logo=1panel&logoColor=white)](https://1panel.io/)
-[![Baota](https://img.shields.io/badge/Baota%20-%2320A43A.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
+[![宝塔](https://img.shields.io/badge/宝塔%20-%2320A43A.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
 [![Cockpit](https://img.shields.io/badge/Cockpit%20-%23000000.svg?style=flat-square&logo=cockpit&logoColor)](https://cockpit-project.org/)
     </td>
 </tr>
