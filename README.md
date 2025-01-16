@@ -249,6 +249,7 @@ I can't write this part well while all my working projects are private.
 [![Neovim](https://img.shields.io/badge/Nvim%20-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Podman](https://img.shields.io/badge/Podman%20-%23000000.svg?style=flat-square&logo=podman&logoColor=white)](https://podman.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jaeger](https://img.shields.io/badge/Jaeger%20-%23FF6F00.svg?style=flat-square&logo=jaeger&logoColor=white)](https://www.jaegertracing.io/)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20-%23000000.svg?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
