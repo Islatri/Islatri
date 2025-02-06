@@ -209,6 +209,8 @@ I can't write this part well while all my working projects are private.
 [![Egg.js](https://img.shields.io/badge/Egg.js%20-%2330A9DE.svg?style=flat-square&logo=egg&logoColor=white)](https://www.eggjs.org/)
 [![Viz](https://img.shields.io/badge/Viz%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/viz-rs/viz)
 [![Warp](https://img.shields.io/badge/Warp%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/warp/latest/warp/)
+[![Rocket](https://img.shields.io/badge/Rocket%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://rocket.rs/)
+[![Salvo](https://img.shields.io/badge/Salvo%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://salvo.rs/)
 [![Flask](https://img.shields.io/badge/Flask%20-%2342adc1.svg?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI%20-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
     </td>
