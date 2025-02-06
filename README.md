@@ -7,8 +7,8 @@
 > ## でも実は嘘だらけの大嘘つきなんですよね～
 
 <div>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=zoneherobrine&theme=github_dark_dimmed&show_icons=true&count_private=true" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoneherobrine&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=islatri&theme=github_dark_dimmed&show_icons=true&count_private=true" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islatri&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
 
 # Other wip projects comming soon 
@@ -203,7 +203,7 @@ I can't write this part well while all my working projects are private.
  <td align="center"><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
-
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Gin](https://img.shields.io/badge/Gin%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://gin-gonic.com/)
 [![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Egg.js](https://img.shields.io/badge/Egg.js%20-%2330A9DE.svg?style=flat-square&logo=egg&logoColor=white)](https://www.eggjs.org/)
@@ -218,7 +218,6 @@ I can't write this part well while all my working projects are private.
     <td>
 
 [![SurrealDB](https://img.shields.io/badge/SurrealDB%20-%23DD00BF.svg?style=flat-square&logo=surrealdb&logoColor=white)](https://surrealdb.com/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Kafka](https://img.shields.io/badge/Kafka%20-%23363D3F.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Prisma](https://img.shields.io/badge/Prisma%20-%233D8BCD.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
     </td>
