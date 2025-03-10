@@ -1,9 +1,11 @@
+<!-- markdownlint-disable MD033 MD041 MD045 MD026 MD022 -->
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9A9A9&width=480&lines=%E2%9D%A4%E5%96%80%E5%95%A6%E5%96%80%E5%95%A6%E6%B5%81%E8%BD%AC%E5%BE%80%E5%A4%8D%E7%9A%84%E5%AD%A3%E8%8A%82+%E4%B8%8E%E4%BD%A0%E5%B9%B6%E5%88%97%E9%9D%A2%E5%89%8D" alt="Typing SVG" /></a></div>
 <div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A9A9A9&width=480&lines=%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%81%9A%E4%B8%AA%E7%99%BD%E6%97%A5%E6%A2%A6%E5%90%A7+%E6%80%8E%E4%B9%88%E6%A0%B7%E9%83%BD%E9%9A%8F%E5%AE%83%E5%8E%BB%E5%90%A7~%E2%9D%A4" alt="Typing SVG" /></a></div>
 
 ## ✨ Maybe calling me Chest might be ok.
+
 > ## 其实怎样称呼都好啦~
-> ## Интересно получается 'Chest' звучит почти как 'Честный', да? 
+> ## Интересно получается 'Chest' звучит почти как 'Честный', да?
 > ## でも実は嘘だらけの大嘘つきなんですよね～
 
 <div>
@@ -11,7 +13,8 @@
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islatri&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </div>
 
-# Other wip projects comming soon 
+# Other wip projects comming soon
+
 I can't write this part well while all my working projects are private.
 
 Test Text.
@@ -27,7 +30,7 @@ Test Text.
     <td width="176px" align="center">
     <b>Production Ready</b><br/>Daily working, <br/>10k+ lines</td>
     <td>
-       
+
 [![Rust](https://img.shields.io/badge/Rust%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -45,7 +48,7 @@ Test Text.
 <tr>
     <td align="center"><b>Frequently Used</b><br/>Regular usage, <br/>1k+ lines</td>
     <td>
-       
+
 [![Go](https://img.shields.io/badge/Go%20-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -61,7 +64,7 @@ Test Text.
 <tr>
     <td align="center"><b>Used</b><br/>Basic understanding, <br/>100+ lines</td>
     <td>
-       
+
 [![WebAssembly](https://img.shields.io/badge/WebAssembly%20-%236649B8.svg?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin%20-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Dart](https://img.shields.io/badge/Dart%20-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
@@ -96,8 +99,6 @@ Test Text.
   </td>
 </tr>
 </table>
-
-
 
 ## 🎨 Frontend Development (UI,Framework)
 
@@ -139,9 +140,7 @@ Test Text.
 </tr>
 </table>
 
-
 ## 📱Applications Construction
-
 
 <table>
 <tr>
@@ -164,7 +163,6 @@ Test Text.
     </td>
 </tr>
 </table>
-
 
 ## 💻 Backend Development (API,DB,Framework)
 
@@ -273,10 +271,7 @@ Test Text.
 </tr>
 </table>
 
-
-
 ## 📟 Embedded Development (MCU,PRP,EDA,IDE)
-
 
 <table>
 <tr>
@@ -338,15 +333,12 @@ Test Text.
 </tr>
 </table>
 
-
 ## 🧠 CV, ML and others
-
 
 <table>
 <tr>
         <td width="176px" align="center"><b>Camera Driver</b><br/>A RustAPI of Camera</td>
     <td>
-
 
 [![Galaxy Camera](https://img.shields.io/badge/Galaxy%20Camera%20-%23A3A3A3.svg?style=flat-square&logo=camera&logoColor=white)](https://crates.io/crates/gxci)
     </td>
@@ -355,7 +347,6 @@ Test Text.
 
  <td align="center"><b>Worked</b><br/>In some process projects</td>
     <td>
-
 
 [![RustFFT](https://img.shields.io/badge/RustFFT%20-%23000000.svg?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/rustfft/)
 [![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
@@ -366,7 +357,6 @@ Test Text.
     <td align="center"><b>Just tasted</b><br/>Basic understanding, <br/>anyway not usually</td>
     <td>
 
-
 [![Burn](https://img.shields.io/badge/Burn%20-%23FF4F64.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/burn-rs/burn)
 [![Ollama](https://img.shields.io/badge/Ollama%20-%23000000.svg?style=flat-square&logo=llama&logoColor=white)](https://ollama.ai/)
 [![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -375,5 +365,3 @@ Test Text.
     </td>
 </tr>
 </table>
-
-
