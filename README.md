@@ -192,6 +192,7 @@ Test Text.
 [![SeaORM](https://img.shields.io/badge/SeaORM%20-%231390E9.svg?style=flat-square&logo=rust&logoColor=white)](https://www.sea-ql.org/SeaORM/)
 [![Seaography](https://img.shields.io/badge/Seaography%20-%234B32C3.svg?style=flat-square&logo=graphql&logoColor=white)](https://github.com/SeaQL/seaography)
 [![GraphQL](https://img.shields.io/badge/GraphQL%20-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma%20-%233D8BCD.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Sqlx](https://img.shields.io/badge/Sqlx%20-%230072DE.svg?style=flat-square&logo=rust&logoColor=white)](https://github.com/launchbadge/sqlx)
 [![Diesel](https://img.shields.io/badge/Diesel%20-%23626285.svg?style=flat-square&logo=rust&logoColor=white)](https://diesel.rs/)
 [![Sequelize](https://img.shields.io/badge/Sequelize%20-%2352B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)](https://sequelize.org/)
@@ -220,7 +221,6 @@ Test Text.
 
 [![SurrealDB](https://img.shields.io/badge/SurrealDB%20-%23DD00BF.svg?style=flat-square&logo=surrealdb&logoColor=white)](https://surrealdb.com/)
 [![Kafka](https://img.shields.io/badge/Kafka%20-%23363D3F.svg?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Prisma](https://img.shields.io/badge/Prisma%20-%233D8BCD.svg?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
     </td>
 </tr>
 </table>
@@ -249,6 +249,7 @@ Test Text.
     <td>
 
 [![Fedora](https://img.shields.io/badge/Fedora%20-%232649A5.svg?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kumamon%20-%23FFD700.svg?style=flat-square&logo=kumamon&logoColor=white)](https://uptime.kuma.pet)
 [![Neovim](https://img.shields.io/badge/Nvim%20-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
