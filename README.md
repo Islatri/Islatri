@@ -10,7 +10,7 @@
 
 <div>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=islatri&theme=github_dark_dimmed&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islatri&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=12"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islatri&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=14"/>
 </div>
 
 # Other wip projects comming soon
