@@ -289,6 +289,7 @@ Placeholder Test Text.
 [![Blender 3D](https://img.shields.io/badge/Blender%203D%20-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)](https://www.blender.org/)
 [![SystemViews](https://img.shields.io/badge/SystemViews%20-%230066CC.svg?style=flat-square&logo=systemviews&logoColor=white)](https://systemviews.com/)
 [![立创EDA](https://img.shields.io/badge/立创EDA%20-%2300A652.svg?style=flat-square&logo=lceda&logoColor=white)](https://lceda.cn/)
+[![KiCAD](https://img.shields.io/badge/KiCAD%20-%23F2B705.svg?style=flat-square&logo=kicad&logoColor=white)](https://kicad.org/)
 [![AltiumDesigner](https://img.shields.io/badge/AltiumDesigner%20-%23A5915F.svg?style=flat-square&logo=altium-designer&logoColor=white)](https://www.altium.com/)
     </td>
 </tr>
