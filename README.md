@@ -54,6 +54,7 @@ Placeholder Test Text.
 [![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![Typst](https://img.shields.io/badge/Typst%20-%23000000.svg?style=flat-square&logo=typst&logoColor=white)](https://typst.app/)
 [![Verilog](https://img.shields.io/badge/Verilog%20-%23000000.svg?style=flat-square&logo=vdhl&logoColor=white)](https://en.wikipedia.org/wiki/Verilog)
 [![Matlab](https://img.shields.io/badge/Matlab%20-%23007ACC.svg?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 ![Русский](https://img.shields.io/badge/Русский%20-%23FF0000.svg?style=flat-square&logo=russia&logoColor=white)
