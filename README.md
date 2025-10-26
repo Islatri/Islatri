@@ -97,6 +97,8 @@ Placeholder Test Text.
 ![한국어](https://img.shields.io/badge/한국어%20-%230000FF.svg?style=flat-square&logo=south-korea&logoColor=white)
 ![Español](https://img.shields.io/badge/Español%20-%23800080.svg?style=flat-square&logo=spain&logoColor=white)
 ![Français](https://img.shields.io/badge/Français%20-%230073C6.svg?style=flat-square&logo=france&logoColor=white)
+![Latina](https://img.shields.io/badge/Latina%20-%23000000.svg?style=flat-square&logo=latin&logoColor=white)
+![བོད་ཡིག](https://img.shields.io/badge/བོད་ཡིག%20-%2300FFFF.svg?style=flat-square&logo=tibet&logoColor=white)
   </td>
 </tr>
 </table>
