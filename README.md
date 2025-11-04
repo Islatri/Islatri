@@ -243,6 +243,7 @@ Placeholder Test Text.
 [![CentOS](https://img.shields.io/badge/CentOS%20-%23A14F8C.svg?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org/)
 [![OpenCloudOS](https://img.shields.io/badge/OpenCloudOS%20-%231590F3.svg?style=flat-square&logo=opencloudos&logoColor=white)](https://www.opencloudos.com/)
 [![AlmaLinux](https://img.shields.io/badge/AlmaLinux%20-%23FFCB12.svg?style=flat-square&logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![RockyLinux](https://img.shields.io/badge/RockyLinux%20-%230FB371.svg?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
 [![WSL2](https://img.shields.io/badge/WSL2%20-%23007CFF.svg?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
     </td>
 </tr>
@@ -264,13 +265,6 @@ Placeholder Test Text.
 [![宝塔](https://img.shields.io/badge/宝塔%20-%2320A43A.svg?style=flat-square&logo=baota&logoColor=white)](https://www.bt.cn/new/index.html)
 [![Cockpit](https://img.shields.io/badge/Cockpit%20-%23000000.svg?style=flat-square&logo=cockpit&logoColor)](https://cockpit-project.org/)
 [![OpenResty](https://img.shields.io/badge/OpenResty%20-%23119339.svg?style=flat-square&logo=openresty&logoColor=white)](https://openresty.org/)
-    </td>
-</tr>
-<tr>
-    <td align="center"><b>Waiting list</b><br/>Or no waits</td>
-    <td>
-
-[![RockyLinux](https://img.shields.io/badge/RockyLinux%20-%230FB371.svg?style=flat-square&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
     </td>
 </tr>
 </table>
