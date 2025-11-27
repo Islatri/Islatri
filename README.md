@@ -23,7 +23,12 @@ Placeholder Test Text.
 
 <div align="left">
 
+<details>
+<summary>
+
 ## 🌐 Languages
+
+</summary>
 
 <table>
 <tr>
@@ -103,7 +108,14 @@ Placeholder Test Text.
 </tr>
 </table>
 
+</details>
+
+<details>
+<summary>
+
 ## 🎨 Frontend Development (UI,Framework)
+
+</summary>
 
 <table>
 <tr>
@@ -143,7 +155,14 @@ Placeholder Test Text.
 </tr>
 </table>
 
+</details>
+
+<details>
+<summary>
+
 ## 📱Applications Construction
+
+</summary>
 
 <table>
 <tr>
@@ -167,7 +186,14 @@ Placeholder Test Text.
 </tr>
 </table>
 
+</details>
+
+<details>
+<summary>
+
 ## 💻 Backend Development (API,DB,Framework)
+
+</summary>
 
 <table>
 <tr>
@@ -228,7 +254,14 @@ Placeholder Test Text.
 </tr>
 </table>
 
+</details>
+
+<details>
+<summary>
+
 ## 🖥 DevOps
+
+</summary>
 
 <table>
 <tr>
@@ -269,7 +302,14 @@ Placeholder Test Text.
 </tr>
 </table>
 
+</details>
+
+<details>
+<summary>
+
 ## 📟 Embedded Development (MCU,PRP,EDA,IDE)
+
+</summary>
 
 <table>
 <tr>
@@ -332,7 +372,14 @@ Placeholder Test Text.
 </tr>
 </table>
 
+</details>
+
+<details>
+<summary>
+
 ## 🧠 CV, ML and others
+
+</summary>
 
 <table>
 <tr>
@@ -364,3 +411,5 @@ Placeholder Test Text.
     </td>
 </tr>
 </table>
+
+</details>
