@@ -8,6 +8,13 @@
 > ## Интересно получается 'Chest' звучит почти как 'Честный', да?
 > ## でも実は嘘だらけの大嘘つきなんですよね～
 
+<details>
+<summary>
+
+## Something Not Important
+
+</summary>
+
 <div>
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=islatri&theme=github_dark_dimmed&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
   <img align="center"  src="https://github-readme-stats.zohan.tech/api/top-langs/?username=islatri&layout=compact&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=14"/>
@@ -411,5 +418,7 @@ Placeholder Test Text.
     </td>
 </tr>
 </table>
+
+</details>
 
 </details>
