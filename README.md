@@ -8,17 +8,17 @@
 > ## Интересно получается 'Chest' звучит почти как 'Честный', да?
 > ## でも実は嘘だらけの大嘘つきなんですよね～
 
+<div>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=islatri&theme=github_dark_dimmed&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&line_height=39" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islatri&hide=html,css&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=12&stats_format=bytes&layout=donut-vertical"/>
+</div>
+
 <details>
 <summary>
 
 ## Otherwise
 
 </summary>
-
-<div>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=islatri&theme=github_dark_dimmed&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=islatri&hide=html,css&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=12&stats_format=bytes&layout=donut-vertical"/>
-</div>
 
 # Other wip projects comming soon
 
