@@ -352,6 +352,7 @@ Placeholder Test Text.
 [![OpenMV](https://img.shields.io/badge/OpenMV%20-%23FF0000.svg?style=flat-square&logo=opencv&logoColor=white)](https://openmv.io/)
 [![K210](https://img.shields.io/badge/K210%20-%23000000.svg?style=flat-square&logo=chip&logoColor=white)](https://kendryte.com/)
 [![EP4CE30F23C8](https://img.shields.io/badge/EP4CE30F23C8%20-%230071C5.svg?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com/content/www/us/en/products/details/fpga.html)
+[![XC6SLX16](https://img.shields.io/badge/XC6SLX16%20-%23E01F27.svg?style=flat-square&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/silicon-devices/fpga/spartan-6.html)
     </td>
 </tr>
 <tr>
